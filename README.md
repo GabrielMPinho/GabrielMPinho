@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/GabrielMPinho">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Ciencia%20de%20Dados%20e%20IA%3BPython%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20TypeScript%3BAutomacao%20e%20integracao%20de%20sistemas%3BOpen%20to%20Work" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Ciencia%20de%20Dados%20e%20IA%3BPython%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20TypeScript%3BAutomacao%20e%20integracao%20de%20sistemas" alt="Typing SVG">
   </a>
 </p>
 
